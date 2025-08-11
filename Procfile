@@ -1,1 +1,1 @@
-web: gunicorn tlc-19-my-project-hello-world1.wsgi
+web: gunicorn my_project.wsgi
